@@ -1,0 +1,26 @@
+body {
+	background-color: #EAF6F6;
+}
+
+h1 {
+	color: #eba83a;
+}
+
+h3 {
+	color: #867ae9;
+}
+
+hr {
+	border-style: none;
+	border-color: black;
+	border-width: 6px;
+	width: 6%;
+}
+
+.arial {
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.newroman {
+	font-family: "Times New Roman", Times, serif;
+}
